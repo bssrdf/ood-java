@@ -26,7 +26,7 @@ public class CallHandler {
      */
     List<List<Employee>> employeeLevels;
 
-	/* queues for each call’s rank */
+	/* queues for each call's rank */
     List<List<Call>> callQueues; 
 
     protected CallHandler() {
