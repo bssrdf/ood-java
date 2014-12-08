@@ -1,1 +1,1 @@
-// This is my java code to Chapter 8 OOD in CC150.
+// This is my java code to object-oriented design.
